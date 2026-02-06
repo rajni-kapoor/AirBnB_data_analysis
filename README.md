@@ -3,7 +3,7 @@
 This project analyzes how the U.S. short‑term rental market changed between 2020 and 2023 using Airbnb listing data. The workflow includes loading and cleaning the dataset in Python, performing exploratory data analysis, running SQL queries in PostgreSQL for deeper business insights, and building an interactive Power BI dashboard. The goal is to understand shifts in pricing, availability, demand, and listing growth to support data‑driven decision‑making for hosts and investors.
 
  ## Dataset
-Rows: ~3,900 (2020) + 2023 dataset appended
+Rows: ~ 232147 , 226031 (2020) + 2023 dataset appended
 
 Columns: 18
 
@@ -17,7 +17,7 @@ Location attributes (neighbourhood, city, latitude, longitude)
 
 Review metrics (reviews per month, last review date, total reviews)
 
-🛠 Tools Used
+## Tools Used
 Python (Pandas, NumPy, Matplotlib, Seaborn) – Data loading, cleaning, EDA
 
 PostgreSQL – SQL queries for business analysis
@@ -28,7 +28,7 @@ Jupyter Notebook / VS Code – Development environment
 
 GitHub – Version control and project documentation
 
-📘 Project Steps
+## Project Steps
 1. Data Loading (Python)
 Imported raw CSV files
 
